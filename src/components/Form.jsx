@@ -1,6 +1,7 @@
 import React from 'react';
 import {useFormik} from 'formik';
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
 
 const initialValues =  {
     name: '',
@@ -73,6 +74,8 @@ function Form(props) {
         </div>
         <button type='submit'>Submit</button>
       </form>
+
+      <h3><Link to='/about'>about</Link></h3>
     </div>
   )
 }
