@@ -1,0 +1,10 @@
+Build a simple form 
+useFormik Hook
+Manage the from State
+Handle form submission 
+Form Validation 
+Formik Components 
+Few handy features 
+reuseable componets for input, test area, radio buttons and checkboxes 
+Build a user registration Form
+Wire up  UI library
